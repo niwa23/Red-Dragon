@@ -31,8 +31,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owner v card
 global.vcardowner = ['+94774504434'] // owner number
 global.ownername = "✊𝐑.𝐌.𝐍𝐈𝐖𝐀❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.ytname = "" // 𝐆𝐚𝐦𝐢𝐧𝐠𝐧𝐢𝐰𝐚 // yt chanel name
+global.socialm = "GitHub: Niwa" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -50,13 +50,13 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 global.owner = ['+94774504434']
 global.ownertag = '+94774504434' //your tag number
 global.botname = '𝐍𝐈𝐖𝐀 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.packname = "Niwa bot" // sticker packname
+global.author = "Pabodha Niwanthaka" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94774504434'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
